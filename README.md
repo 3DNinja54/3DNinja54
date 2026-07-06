@@ -31,6 +31,6 @@
 
 ### GitHub Stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=RealThe3D&theme=discord_old_blurple&show_icons=true)](https://github.com/RealThe3D)
+[![Github Stats](https://github-stats-extended.vercel.app/api?username=RealThe3D&theme=discord_old_blurple&show_icons=true)](https://github.com/RealThe3D)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealThe3D&theme=discord_old_blurple)](https://github.com/RealThe3D/)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RealThe3D&theme=discord_old_blurple)](https://github.com/RealThe3D/)
