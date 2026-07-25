@@ -18,15 +18,11 @@
 </div>
 ```
 
-## Development Tools
 
--   💻 OS: Windows 11
--   👨‍💻 IDE: Visual Studio Code
-
-## Languages / Programs / Services I use
+## Languages, Programs, Services, and Tools I Use
 
 <p>
-	<img src="https://skillicons.dev/icons?i=js,ts,html,css,windows,nodejs,python,react,vscode,tailwind,java,docker,deno" />
+	<img src="https://skillicons.dev/icons?i=js,ts,html,css,windows,nodejs,python,react,vscode,tailwind,java,docker,deno,ubuntu" />
 </p>
 
 ### GitHub Stats
